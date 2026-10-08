@@ -2,7 +2,7 @@
 
 # Hey, I'm Leonardo 
 
-4th-year Computer Science student at **Universidad de Costa Rica** 🎓
+4th-year Computer Science student at **Universidad de Costa Rica** 
 Building robust software at the intersection of algorithms, AI & the web.
 
 <br>
